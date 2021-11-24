@@ -25,3 +25,7 @@ pendidikan: SMK 2 muara enim
 <p align="center">
   <img alig src="./code.gif" />
 </p>
+
+![wahyudioputra github stats](https://github-readme-stats.vercel.app/api?username=wahyudioputra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyudioputra&count_private=true&show_icons=true&theme=tokyonight)
+<!--
