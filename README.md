@@ -7,7 +7,7 @@
  <img src="https://komarev.com/ghpvc/?username=wahyudioputra&color=blue&label=total orang melihat akun github wahyudioputra" />
  </p>
 
-## Contacts me
+## Contacts me :
 <p>
 <a href="http://wa.me/6283809157951" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=social&logo=whatsapp" /></a>
 <a href="http://www.instagram.com/wahyudioputra_/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
