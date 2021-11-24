@@ -20,7 +20,6 @@ umur: 17 tahun
 tempat tinggal: Indonesia, Sumatera Selatan Muara Enim
 pendidikan: SMK 2 muara enim
 ```
-**Favorit game:**
-
-<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGimzlbs6ll9h56i-cSP_oi0pZR0nO7HsOQ&usqp=CAU"></code>
-<code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRakJUHSahsemNUuf9dYsmKhuEU6PK8z8rPgA&usqp=CAU"></code>
+<p align="center">
+  <img alig src="./code.gif" />
+</p>
