@@ -1,7 +1,8 @@
+<p>
 <a href="//bit.ly/siteswahyudioputra"><img align="center" src="https://cardivo.vercel.app/api?name=wahyudioputra&description=Halo,%20I%27m%20Wahyu%20dan%20saya%20masih%20progammer%20pemula%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/wahyudioputra&usqp=CAU&backgroundColor=%23ecf0f1&youtube=wahyudioputra&github=wahyudioputra&pattern=ticTacToe&colorPattern=%23eaeaea&site=There is no God but Allah"/></a>
 </p>
  
- 
+ <p>
  <p align="center">
  <img src="https://komarev.com/ghpvc/?username=wahyudioputra&color=blue&label=Profile Views" />
  </p>
@@ -20,6 +21,7 @@ umur: 17 tahun
 tempat tinggal: Indonesia, Sumatera Selatan Muara Enim
 pendidikan: SMK 2 muara enim
 ```
+<p>
 <p align="center">
   <img alig src="./code.gif" />
 </p>
