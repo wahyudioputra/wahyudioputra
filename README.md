@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" />
   <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" />
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB" />
+  <img src="https://img.shields.io/badge/-Npm-black?style=flat-square&logo=npm" />
 </p>
 
 <p>
