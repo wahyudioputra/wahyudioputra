@@ -7,21 +7,12 @@
  <img src="https://komarev.com/ghpvc/?username=wahyudioputra&color=blue&label=total orang melihat akun github wahyudioputra" />
  </p>
 
-## Contacts me :
 <p>
 <a href="http://wa.me/6283809157951" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=social&logo=whatsapp" /></a>
 <a href="http://www.instagram.com/wahyudioputra_/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
 <a href="https://www.facebook.com/profile.php?id=100062405779198" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=social&logo=facebook" /></a>
 </p>
 
-```
-nama: wahyu
-umur: 17 tahun
-tinggal: Indonesia, Sumatera Selatan Muara Enim
-pendidikan: SMK 2 muara enim
-Hoby: Game, Coding
-Pacar: asun
-```
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
