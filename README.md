@@ -1,5 +1,5 @@
 <p>
-<a href="//wahyudioputra.github.io/"><img align="center" src="https://cardivo.vercel.app/api?name=wahyudioputra&description=Halo,%20I%27m%20Wahyu%20dan%20saya%20masih%20progammer%20pemula%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/wahyudioputra&usqp=CAU&backgroundColor=%23ecf0f1&youtube=wahyudioputra&github=wahyudioputra&pattern=ticTacToe&colorPattern=%23eaeaea&site=There is no God but Allah"/></a>
+<a href="//wahyudioputra.github.io/"><img align="center" src="https://cardivo.vercel.app/api?name=wahyudioputra&description=Halo,%20I%27m%20Wahyu%20progammer%20pemula&image=https://avatars.githubusercontent.com/wahyudioputra&usqp=CAU&backgroundColor=%23ecf0f1&youtube=wahyudioputra&github=wahyudioputra&pattern=ticTacToe&colorPattern=%23eaeaea&site=There is no God but Allah"/></a>
 </p>
  
  <p>
