@@ -4,9 +4,7 @@
  </p>
 
 <p>
-<a href="http://wa.me/6283809157951" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=social&logo=whatsapp" /></a>
 <a href="http://www.instagram.com/wahyudioputra_/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
-<a href="https://www.facebook.com/profile.php?id=100062405779198" target="blank"><img src="https://img.shields.io/badge/Facebook-30302f?style=social&logo=facebook" /></a>
 </p>
 
 <p align="center">
