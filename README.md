@@ -3,10 +3,6 @@
  <img src="https://komarev.com/ghpvc/?username=wahyudioputra&color=blue&label=total orang melihat akun github wahyudioputra" />
  </p>
 
-<p>
-<a href="http://www.instagram.com/wahyudioputra_/" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=social&logo=instagram" /></a>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
